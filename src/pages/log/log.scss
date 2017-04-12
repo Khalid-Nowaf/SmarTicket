@@ -1,0 +1,14 @@
+page-log {
+    ion-list {
+        display: flex;
+        flex-direction:column-reverse;
+        // flex-direction: row;
+        // background-color: red;
+        // color: red;
+        ion-note {
+            font-size: 13px;
+        }
+    }
+}
+
+

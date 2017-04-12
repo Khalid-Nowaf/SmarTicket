@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "171791695450",
+    "firebase_url": "https://smarticket-627ee.firebaseio.com",
+    "project_id": "smarticket-627ee",
+    "storage_bucket": "smarticket-627ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171791695450:android:c5b535c34f932db2",
+        "android_client_info": {
+          "package_name": "com.ionicframework.smarticket779974"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171791695450-03rbf2n0bi5ffskrjb52nk29jbfci9ld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ionicframework.smarticket779974",
+            "certificate_hash": "095abdaf8841b19a8ce4a713bebb56b480740a36"
+          }
+        },
+        {
+          "client_id": "171791695450-95800o8nm1cvf2714153qer25nrslvv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbSV-8TQfz1wZBOU5QrWvjldYH0JCxbi4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171791695450-95800o8nm1cvf2714153qer25nrslvv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

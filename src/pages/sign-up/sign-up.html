@@ -1,0 +1,49 @@
+<!--
+  Generated template for the SignUp page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+   <ion-navbar>
+    <ion-title>
+      Sign Up
+    </ion-title>
+    <ion-buttons end>
+      <button ion-button (click)="dismiss()">
+        <span ion-text color="primary" showWhen="ios">Cancel</span>
+        <ion-icon name="md-close" showWhen="android,windows"></ion-icon>
+      </button>
+    </ion-buttons>
+   </ion-navbar>
+   
+</ion-header>
+
+
+<ion-content padding>
+
+<ion-list>
+
+<ion-item>
+    <ion-label  floating>Full Name</ion-label>
+    <ion-input [(ngModel)]="fullName" type="text"></ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-label  floating>Email</ion-label>
+    <ion-input [(ngModel)]="email" type="text"></ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-label  floating>Password</ion-label>
+    <ion-input [(ngModel)]="password" type="password"></ion-input>
+  </ion-item>
+<ion-item-divider no-lines>
+</ion-item-divider>  
+    <button ion-button block (click)="signUp()"> Sign Up </button>
+
+
+</ion-list>
+
+
+</ion-content>

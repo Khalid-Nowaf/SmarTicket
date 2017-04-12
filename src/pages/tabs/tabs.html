@@ -1,0 +1,6 @@
+
+<ion-tabs #tabs color='primary'(ionChange)="markRead($event)">
+  <ion-tab [root]="tab2Root" tabTitle="Tickets" tabIcon="ribbon"></ion-tab>
+  <ion-tab [root]="tab3Root" tabTitle="Notifications" [tabBadge]="count" tabIcon="notifications"></ion-tab>
+   <ion-tab [root]="tab1Root" tabTitle="Settings" tabIcon="settings"></ion-tab>
+</ion-tabs>

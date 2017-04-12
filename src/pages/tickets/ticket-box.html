@@ -1,0 +1,44 @@
+
+
+<ion-card (click)="update()">
+  <ion-grid>
+
+    <ion-row>
+    
+      <ion-col col-3>
+        <img [src]="ticket.rq" /> 
+      </ion-col>
+
+      <ion-col col-9>
+        <h1> {{ticket.to }} </h1>
+        <div *ngIf="!isExp(ticket)">
+          <h2 *ngIf="ticket.exp_by_date"> Exipre date: {{ticket.exp_at | date:'shortDate'}}</h2>
+          <h2 *ngIf="ticket.exp_by_visit" > Available Visits:
+            <ion-badge item-right> {{ticket.exp_after}}</ion-badge>
+          </h2>
+        </div> 
+        <div *ngIf="isExp(ticket)">
+          <ion-badge color="danger" item-right> EXPIRED </ion-badge>
+        </div>
+        <h2> created at: {{ticket.created_at | date:'shortDate'}} </h2>
+      </ion-col>
+
+    </ion-row>
+
+    <ion-row justify-content-between>
+
+      <ion-col col-2>
+        <button ion-button clear>
+          <ion-toggle color="danger"  checked='{{ticket.exp}}' (ionChange)="makeExp(ticket)"></ion-toggle>
+        </button>
+      </ion-col>
+
+      <button color='s-light' ion-button clear icon-left (click)="share($event)"> Share </button>
+
+      <!--</ion-col>  -->
+    </ion-row>
+    
+  </ion-grid>
+</ion-card>
+
+

@@ -1,0 +1,34 @@
+<!--
+  Generated template for the Tickets page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar color='primary'>
+    <ion-title>My Tickets</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+
+ <ion-fab right bottom >
+   <button color='sec' ion-fab (click)='add()'><ion-icon name="add"> </ion-icon> </button>
+ </ion-fab>
+
+
+    <div *ngFor="let ticket of tickets | async">
+     
+       <ticket-box [ticket]="ticket"> </ticket-box> 
+
+       <!--{{ticket | json}}-->
+    </div>
+
+
+
+
+
+</ion-content>
