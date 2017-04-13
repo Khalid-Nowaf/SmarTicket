@@ -67,58 +67,68 @@ Application Features
 Screen Shots
 -------------------
 ### Login
-![Sign In ](https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/login.png?raw=true)
+<img src="https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/login.png?raw=true" width="400">
+
 
 ### Signup
 
 ------------
-![Sign Up](https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/singup.png?raw=true)
+<img src="https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/singup.png?raw=true" width="400">
+
 
 ### Forgot Password
 
 ------------
-![Sign Up](https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/forgotPass.png?raw=true)
+<img src="https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/forgotPass.png?raw=true" width="400">
+
 
 ### Ticket Manger Home
 
 ---------------------------
-![Sign Up](https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/TicketHome.png?raw=true)
+<img src="https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/TicketHome.png?raw=true" width="400">
+
 
 ### Ticket Manger Home 2
 
 ----------------------------
-![Sign Up](https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/TicketHome2.png?raw=true)
+<img src="https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/TicketHome2.png?raw=true" width="400">
 
 ### Update Ticket
 
 -------------------
-![Sign Up](https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/TicketUpdate.png?raw=true)
+<img src="https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/TicketUpdate.png?raw=true" width="400">
+
 
 ### Share Ticket
 
 -------------------
-![Sign Up](https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/TicketShare.png?raw=true)
+<img src="https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/TicketShare.png?raw=true" width="400">
+
 
 ### Visitor Log
 
 ----------------
-![Sign Up](https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/VisitorLogNotiv.png?raw=true)
+<img src="https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/VisitorLogNotiv.png?raw=true" width="400">
+
 
 
 ### Gate Keeper Scanner
 
 ----------------
-![Sign Up](https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/GateKeeperScanner.png?raw=true)
+<img src="https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/GateKeeperScanner.png?raw=true" width="400">
+
 
 ### Gate Keeper Scan valid Ticket
 
 ------------
-![Sign Up](https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/ScannS.png?raw=true)
+<img src="https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/ScannS.png?raw=true" width="400">
+
 
 ### Gate Keeper Scan invalid Ticket
 
 ------------
-![Sign Up](https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/ScannF.png?raw=true)
+<img src="https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/ScannF.png?raw=true" width="400">
+
 
 
 ### Ticket Viewer "Web Page, hosted in public domain"
@@ -128,16 +138,20 @@ Screen Shots
 
 
 ------------
-![Sign Up](https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/TicketView1.png?raw=true)
+<img src="https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/TicketView1.png?raw=true" width="400">
+
 
 ------------
-![Sign Up](https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/TicketView2.png?raw=true)
+<img src="https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/TicketView2.png?raw=true" width="400">
+
 
 ------------
-![Sign Up](https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/TicketView3.png?raw=true)
+<img src="https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/TicketView3.png?raw=true" width="400">
+
 
 ------------
-![Sign Up](https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/TicketView4.png?raw=true)
+<img src="https://github.com/Khalid-Nowaf/SmarTicket/blob/master/screenshots/TicketView4.png?raw=true" width="400">
+
 
 
 
